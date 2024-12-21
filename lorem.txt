@@ -1,0 +1,1 @@
+Le texte généré est constitué de phrases dont les mots sont sélectionnés aléatoirement. Le tirage suit la répartition statistique d'un référentiel textuel en langue française, selon le principe des chaînes de Markov. En clair : le générateur ne sait pas ce qu'il dit, il n'y a aucune règle sémantique dans le moteur.
